@@ -1,0 +1,4 @@
+void SomeFunction()
+{
+	cout << "Hello World" << endl;
+}
